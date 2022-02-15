@@ -1,2 +1,2 @@
-# Task_1_Data_Science_-_Data_Analytics
+# Task_1 - Data_Science & Business Analytics Intern 
 Data Science and Business Analytics Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day.
